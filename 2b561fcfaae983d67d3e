@@ -1,0 +1,1 @@
+echo "I'm wathing you..." > $HOME/Desktop/watch.txt
